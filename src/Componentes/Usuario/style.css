@@ -1,0 +1,39 @@
+
+.perfil-disney {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.avatar-disney {
+  font-size: 65px;
+}
+
+.perfil-disney h1 {
+  color: #172554;
+}
+
+.estadisticas-disney {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+
+.estadisticas-disney div {
+  background: #eff6ff;
+  border-radius: 12px;
+  padding: 20px;
+  min-width: 170px;
+}
+
+.estadisticas-disney h2 {
+  font-size: 32px;
+  color: #1d4ed8;
+}
+
+.mensaje-perfil {
+  color: #475569;
+}

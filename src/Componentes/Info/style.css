@@ -1,0 +1,60 @@
+
+.bienvenida-disney {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  text-align: center;
+  color: white;
+  background: linear-gradient(135deg, #101b46, #2864b5);
+}
+
+.contenido-bienvenida {
+  max-width: 450px;
+}
+
+.logo-disney {
+  width: 200px;
+  max-height: 100px;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+
+.contenido-bienvenida h1 {
+  font-size: 35px;
+  color: #facc15;
+}
+
+.contenido-bienvenida p {
+  font-size: 17px;
+  line-height: 1.6;
+  margin: 25px 0;
+}
+
+.contenido-bienvenida button {
+  padding: 15px 25px;
+  border: none;
+  border-radius: 10px;
+  background: #facc15;
+  color: #172554;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.contenido-bienvenida small {
+  display: block;
+  margin-top: 25px;
+}
+
+.informacion-disney {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  line-height: 1.7;
+}
+
+.informacion-disney h1,
+.informacion-disney h2 {
+  color: #1d4ed8;
+}
